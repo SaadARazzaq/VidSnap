@@ -4,6 +4,13 @@
 
 VidSnap is an AI-driven web application designed to revolutionize video content consumption. In a world filled with lengthy videos and information overload, VidSnap helps you quickly grasp the essence of a video by generating concise summaries in various formats, such as text, images, and summary videos. Whether you're a busy professional or a passionate tech enthusiast, VidSnap makes it easier to access and understand video content without spending hours watching it.
 
+## Demo Video
+
+<a href="https://github.com/SaadARazzaq/VidSnap/blob/main/video/video_compressed.mp4" target="_blank">
+  <img width="800" alt="Screenshot 2024-08-17 at 08 40 02" src="https://github.com/user-attachments/assets/8e228e04-9512-4862-92bd-4487ce55ba8e">
+</a>
+
+
 ## Key Features
 
 - **Generates Concise Summaries**: Extracts the core ideas of a video, allowing you to quickly understand the content.
@@ -73,7 +80,7 @@ python app.py
 ```
 This should start the backend server, and Flask will listen on a port (usually http://127.0.0.1:5000).
 
-7. Run Frontend
+7. Run Frontend (IF REQUIRED)
 ```bash
 npm start
 ```
