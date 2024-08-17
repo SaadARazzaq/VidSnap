@@ -1,0 +1,13 @@
+markdown2
+ollama
+yt_dlp
+gtts
+ffmpeg
+moviepy
+openai-whisper
+certifi
+pydub
+pytube
+tensorflow
+tqdm
+numpy
